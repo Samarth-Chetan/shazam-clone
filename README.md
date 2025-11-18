@@ -1,4 +1,4 @@
-# Shazam-Style Music Recognition App (MDST Project)
+# Shazam-Style Music Recognition App
 
 This project contains both the **frontend** (React Native + Expo) and **backend** (Python + Flask + audio fingerprinting) for a Shazam-style music recognition system.
 
