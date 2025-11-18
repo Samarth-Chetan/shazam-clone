@@ -1,0 +1,20 @@
+.DS_Store
+__pycache__/
+.ipynb_checkpoints
+.env
+.venv
+env/
+venv/
+
+# audio-related files
+musicdl
+.musicdl_env
+tracks*
+*.zip
+*.mp3
+*.flac
+*.wav
+!pb_recording_long.wav
+!pb_recording_short.wav
+!sample.wav
+!Dogtooth_rec.flac
